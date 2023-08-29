@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e42c3df0abef841d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5dc21f49158ebdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e4c797761a8f84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kampus/RPL/Week 1 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7dd8be9b64afddbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65b13659a3f3635",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534784acd5d95469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad31e58e4a1f2851",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb3959f75024ae01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aff65bacd6bbc1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee97905cd5c775b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8993930b4f22a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kampus/RPL/Week 1 notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06f652ae7d6d7ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kampus/RPL/Week 1 notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "696ed37644277341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6279b64ac71f9c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kampus/RPL/Week 1 notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-map-view:Open map view": false
+    }
+  },
+  "active": "29e4c797761a8f84",
+  "lastOpenFiles": [
+    "Kampus/Jarkom/What is the internet.md",
+    "Kampus/RPL/Week 1 notes.md",
+    "Pasted image 20230829133747.png",
+    "Pasted image 20230829132832.png",
+    "Pasted image 20230829132806.png",
+    "Pasted image 20230829132802.png",
+    "Kampus/Jarkom/Communication Links and Packet Switching.md",
+    "Kampus/RPL",
+    "Kampus/Jarkom/Untitled.md",
+    "Kampus/Jarkom/Packet_Switching.gif",
+    "Pasted image 20230827171703.png",
+    "Kampus/Jarkom/Pasted image 20230827162905.png",
+    "Kampus/Jarkom/Pasted image 20230827163729.png",
+    "Kampus/Jarkom",
+    "Kampus",
+    "Trip ke Jogja bareng papa/List destinasi jogja.md",
+    "Compfest/Bazzar.md",
+    "Compfest/EnS.md",
+    "Compfest/FnB.md",
+    "Compfest/Persiapan-ME.md",
+    "Trip ke Jogja bareng papa/Image/Pasted image 20230820081248.png",
+    "Trip ke Jogja bareng papa/Image",
+    "Trip ke Jogja bareng papa/Image/Pasted image 20230820081307.png",
+    "Trip ke Jogja bareng papa/Alun-alun.md",
+    "Trip ke Jogja bareng papa/Upn.md",
+    "Trip ke Jogja bareng papa/Malioboro.md",
+    "Trip ke Jogja bareng papa",
+    "Compfest/Stage.md",
+    "Compfest/TnV.md",
+    "Compfest/Videotron.md",
+    "2023-08-20.md",
+    "Day Planners/Day Planner-20230724.md",
+    "Day Planners/Day Planner-20230820.md",
+    "Day Planners/Day Planner-20230801.md",
+    "Day Planners/Day Planner-20230810.md",
+    "2023-07-24.md",
+    "Persiapan.md",
+    "Day Planners",
+    "Untitled.canvas",
+    "Compfest"
+  ]
+}
