@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,19 +149,30 @@
   },
   "active": "29e4c797761a8f84",
   "lastOpenFiles": [
-    "Kampus/Jarkom/What is the internet.md",
+    "Pribadi",
+    "New folder",
+    "Pasted image 20230901204407.png",
+    "Pasted image 20230901204232.png",
+    "Kampus/RPL/Untitled.md",
     "Kampus/RPL/Week 1 notes.md",
-    "Pasted image 20230829133747.png",
-    "Pasted image 20230829132832.png",
-    "Pasted image 20230829132806.png",
-    "Pasted image 20230829132802.png",
+    "Kampus/Pengcit/Week 1 Note.md",
+    "Kampus/RPL/Img/Week 1/Pasted image 20230829132832.png",
+    "Kampus/RPL/Img/Week 1",
+    "Kampus/RPL/Img",
+    "Kampus/Jarkom/Untitled.md",
+    "Kampus/Pengcit/Img/Week 1/Pasted image 20230831134924.png",
+    "Kampus/Pengcit/Img/Week 1",
+    "Kampus/Pengcit/Img",
+    "Kampus/RPL/Img/Week 1/Pasted image 20230829133747.png",
+    "Kampus/RPL/Img/Week 1/Pasted image 20230829132806.png",
+    "Kampus/Pengcit/Img/Week 1/Pasted image 20230831140949.png",
+    "Kampus/Pengcit/Img/Week 1/Pasted image 20230831140944.png",
+    "Kampus/Pengcit/Img/Week 1/Pasted image 20230831140926.png",
+    "Kampus/Pengcit/Img/Week 1/Pasted image 20230831140822.png",
+    "Kampus/Pengcit",
+    "Kampus/Jarkom/What is the internet.md",
     "Kampus/Jarkom/Communication Links and Packet Switching.md",
     "Kampus/RPL",
-    "Kampus/Jarkom/Untitled.md",
-    "Kampus/Jarkom/Packet_Switching.gif",
-    "Pasted image 20230827171703.png",
-    "Kampus/Jarkom/Pasted image 20230827162905.png",
-    "Kampus/Jarkom/Pasted image 20230827163729.png",
     "Kampus/Jarkom",
     "Kampus",
     "Trip ke Jogja bareng papa/List destinasi jogja.md",
@@ -169,13 +180,10 @@
     "Compfest/EnS.md",
     "Compfest/FnB.md",
     "Compfest/Persiapan-ME.md",
-    "Trip ke Jogja bareng papa/Image/Pasted image 20230820081248.png",
     "Trip ke Jogja bareng papa/Image",
-    "Trip ke Jogja bareng papa/Image/Pasted image 20230820081307.png",
     "Trip ke Jogja bareng papa/Alun-alun.md",
     "Trip ke Jogja bareng papa/Upn.md",
     "Trip ke Jogja bareng papa/Malioboro.md",
-    "Trip ke Jogja bareng papa",
     "Compfest/Stage.md",
     "Compfest/TnV.md",
     "Compfest/Videotron.md",
@@ -186,8 +194,6 @@
     "Day Planners/Day Planner-20230810.md",
     "2023-07-24.md",
     "Persiapan.md",
-    "Day Planners",
-    "Untitled.canvas",
-    "Compfest"
+    "Untitled.canvas"
   ]
 }
