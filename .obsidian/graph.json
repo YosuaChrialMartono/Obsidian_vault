@@ -6,25 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag: persiapan-me",
-      "color": {
-        "a": 1,
-        "rgb": 7100723
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.22567567567568,
+  "nodeSizeMultiplier": 1.49054054054054,
   "lineSizeMultiplier": 1.347920997921,
   "collapse-forces": false,
-  "centerStrength": 1,
-  "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.5255568449083812,
+  "centerStrength": 0.712058212058212,
+  "repelStrength": 16.5696465696466,
+  "linkStrength": 0.757796257796258,
+  "linkDistance": 111,
+  "scale": 1.0000000000000007,
   "close": true
 }
