@@ -1,4 +1,8 @@
 [
   "dataview",
-  "obsidian-map-view"
+  "obsidian-map-view",
+  "obsidian-git",
+  "canvas-mindmap",
+  "canvas-links",
+  "optimize-canvas-connections"
 ]

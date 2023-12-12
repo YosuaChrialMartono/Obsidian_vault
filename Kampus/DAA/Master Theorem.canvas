@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"85fd393ae2b1129f","type":"text","text":"Master Theorem\n","x":-240,"y":-220,"width":120,"height":60},
+		{"id":"39d0c1932de41bd2","type":"file","file":"Kampus/DAA/img/Pasted image 20231011125501.png","x":-120,"y":-100,"width":399,"height":220},
+		{"id":"98702fb3b38eee74","type":"file","file":"Kampus/DAA/img/Pasted image 20231011125532.png","x":-120,"y":180,"width":400,"height":222},
+		{"id":"005ab21ceba23fef","type":"text","text":"Examples","x":-280,"y":460,"width":140,"height":60},
+		{"id":"5638f998bc117e37","type":"text","text":"When can we not use master theorem?","x":340,"y":-220,"width":250,"height":60},
+		{"id":"96f0bbec42f5dad5","type":"file","file":"Kampus/DAA/img/Pasted image 20231011125909.png","x":500,"y":-100,"width":399,"height":137},
+		{"id":"c33353724eb60e0a","type":"text","text":"Jika tidak ada case dari master theorem yang terpenuhi maka ia tidak dapat kita gunakan","x":500,"y":60,"width":250,"height":200},
+		{"id":"c515a519c8653411","type":"file","file":"Kampus/DAA/img/Pasted image 20231011125806.png","x":-115,"y":614,"width":400,"height":252},
+		{"id":"9721cb7dd9839de6","type":"file","file":"Kampus/DAA/img/Pasted image 20231011125836.png","x":-115,"y":920,"width":689,"height":280}
+	],
+	"edges":[
+		{"id":"fdcdebfe0553c041","fromNode":"85fd393ae2b1129f","fromSide":"bottom","toNode":"39d0c1932de41bd2","toSide":"left"},
+		{"id":"546a125d85e4b512","fromNode":"85fd393ae2b1129f","fromSide":"right","toNode":"98702fb3b38eee74","toSide":"top"},
+		{"id":"94c5ab0f3d18daa0","fromNode":"005ab21ceba23fef","fromSide":"bottom","toNode":"c515a519c8653411","toSide":"left"},
+		{"id":"b1a356ebf4a85ace","fromNode":"005ab21ceba23fef","fromSide":"bottom","toNode":"9721cb7dd9839de6","toSide":"left"},
+		{"id":"a90b3b1f3af5134a","fromNode":"5638f998bc117e37","fromSide":"bottom","toNode":"96f0bbec42f5dad5","toSide":"left"},
+		{"id":"8c235c346723c7c7","fromNode":"5638f998bc117e37","fromSide":"right","toNode":"c33353724eb60e0a","toSide":"top"}
+	]
+}

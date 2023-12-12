@@ -1,4 +1,4 @@
-#Jarkom #WhatIsTheInternet
+#Jarkom #notes #College 
 ## Internet vs intranet
 **Internet** : The **Internet** is a globally-connected network of computers that enables people to share information and communicate with each other. 
 

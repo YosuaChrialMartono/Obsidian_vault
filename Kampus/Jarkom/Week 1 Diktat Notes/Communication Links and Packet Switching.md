@@ -1,3 +1,4 @@
+#College #notes #Jarkom 
 # Communication Links
 communication links is a connection or transmission technologies that connects particular machine. The link enables the communication of states/stations
 

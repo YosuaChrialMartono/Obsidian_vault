@@ -1,7 +1,7 @@
 ---
 college, rpl, sem_5, 
 ---
-#rpl #notes 
+#rpl #notes #College 
 # Introduction to Software Engineering
 ---
 ## What is software
@@ -126,6 +126,3 @@ Although it does seem enticing to start coding first but it is sometime more wor
 The cost effective development of highly quality software
 - Sommervile
 ```
-
-
-# Generic Process Model

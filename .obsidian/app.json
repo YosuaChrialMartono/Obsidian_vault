@@ -1,4 +1,7 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "Kampus/Image (attachment folder for newer attachment)"
 }
